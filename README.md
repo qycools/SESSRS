@@ -89,11 +89,9 @@ We refined **water** and **building** labels using [Label Studio](https://github
 
 ## 🛠 Usage Guide
 
-### GeoSeg (Semantic Segmentation Model Training)
-
 The GeoSeg code is based on [this repository](https://github.com/WangLibo1995/GeoSeg), with some modifications.
 
-#### **1️⃣ Train the model:**
+### **1️⃣ GeoSeg (Semantic Segmentation Model Training)**
 
 ```bash
 cd path/to/SESSRS/GeoSeg
@@ -102,24 +100,25 @@ python train_supervision.py -c config/Urban/unetformer.py
 # Currently, config provides two datasets: Urban and Potsdam, and 8 models.
 ```
 
-#### **2️⃣ Generate validation set predictions:**
+### **2️⃣ Generate validation set predictions:**
 
 ```bash
 cd path/to/your/SESSRS_path/GeoSeg
-python test.py -c config/Urban/unetformer.py  
-# Default 'P' mode
+python test.py -c config/Urban/unetformer.py  # Default 'P' mode
 # Currently, config provides two datasets: Urban and Potsdam, and 8 models.
-
-python test.py --rgb -c config/Urban/unetformer.py -g 1  
-# RGB mode, run on GPU 1
+python test.py --rgb -c config/Urban/unetformer.py -g 1  # RGB mode, run on GPU 1
 ```
 
-### SAM (Generate SAM Objects)
-**3️⃣ Generate SAM Objects**
+### **3️⃣ Generate SAM Objects**
+Convert RS images to $S^I$, then to SAM object lists $S$, and finally generate a JSON file containing all SAM objects. [HQ-SAM](https://github.com/SysCV/sam-hq) and [Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM).
 
 ```bash
 cd path/to/SESSRS/SAM
 python generate_json_sam.py -i GeoSeg/data/dataset/val/images -j GeoSeg/data/dataset/sam_label_info/sam
+
+# Visualization
+cd path/to/your/SESSRS_path/SAM
+python generate_img_samhq.py -i path/to/your/SESSRS_path/GeoSeg/data/Urban/val/images -j path/to/your/SESSRS_path/GeoSeg/data/Urban/sam_label_info/samhq
 ```
 
 ---
