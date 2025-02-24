@@ -1,0 +1,2 @@
+
+from .generate_mask_auto import get_sam_json,get_sam_label
