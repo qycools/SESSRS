@@ -1,0 +1,28 @@
+../GeoSeg/fig_results/Urban/unetformer
+
+Get miou.
+===>background:	Iou-43.65; F1-60.77; Recall-64.07; Precision-57.79
+===>building:	Iou-65.41; F1-79.09; Recall-81.53; Precision-76.79
+===>road:	Iou-53.0; F1-69.28; Recall-59.83; Precision-82.29
+===>water:	Iou-81.84; F1-90.01; Recall-91.19; Precision-88.87
+===>barren:	Iou-38.35; F1-55.44; Recall-46.32; Precision-69.03
+===>forest:	Iou-41.33; F1-58.49; Recall-87.6; Precision-43.9
+===>agricultural:	Iou-45.6; F1-62.64; Recall-49.25; Precision-86.05
+===> mIoU: 52.74; mF1: 67.96; mPA: 68.54; Accuracy: 67.91
+Get miou done.
+
+
+
+Get miou.
+===>background:	Iou-44.38; F1-61.48; Recall-63.88; Precision-59.25
+===>building:	Iou-68.36; F1-81.21; Recall-85.73; Precision-77.14
+===>road:	Iou-53.46; F1-69.67; Recall-60.82; Precision-81.54
+===>water:	Iou-83.74; F1-91.15; Recall-91.77; Precision-90.53
+===>barren:	Iou-39.26; F1-56.38; Recall-48.12; Precision-68.08
+===>forest:	Iou-41.45; F1-58.6; Recall-87.55; Precision-44.04
+===>agricultural:	Iou-45.84; F1-62.86; Recall-49.47; Precision-86.18
+===> mIoU: 53.78; mF1: 68.77; mPA: 69.62; Accuracy: 68.66
+Get miou done.
+
+
+

@@ -1,0 +1,644 @@
+t1=1,t2=1
+Get miou.
+===>background:	Iou-43.65; F1-60.77; Recall-64.07; Precision-57.79
+===>building:	Iou-65.41; F1-79.09; Recall-81.53; Precision-76.79
+===>road:	Iou-53.0; F1-69.28; Recall-59.83; Precision-82.29
+===>water:	Iou-81.84; F1-90.01; Recall-91.19; Precision-88.87
+===>barren:	Iou-38.35; F1-55.44; Recall-46.32; Precision-69.03
+===>forest:	Iou-41.33; F1-58.49; Recall-87.6; Precision-43.9
+===>agricultural:	Iou-45.6; F1-62.64; Recall-49.25; Precision-86.05
+===> mIoU: 52.74; mF1: 67.96; mPA: 68.54; Accuracy: 67.91
+Get miou done.
+
+
+
+t1=0.5,t2=0.55
+Get miou.
+===>background:	Iou-43.69; F1-60.81; Recall-64.03; Precision-57.89
+===>building:	Iou-65.54; F1-79.18; Recall-81.53; Precision-76.97
+===>road:	Iou-53.18; F1-69.43; Recall-59.82; Precision-82.73
+===>water:	Iou-81.94; F1-90.07; Recall-91.13; Precision-89.04
+===>barren:	Iou-38.39; F1-55.48; Recall-46.26; Precision-69.29
+===>forest:	Iou-41.46; F1-58.62; Recall-87.58; Precision-44.05
+===>agricultural:	Iou-46.35; F1-63.34; Recall-50.12; Precision-86.03
+===> mIoU: 52.93; mF1: 68.13; mPA: 68.64; Accuracy: 68.1
+Get miou done.
+
+
+
+t1=0.5,t2=0.6
+Get miou.
+===>background:	Iou-43.69; F1-60.81; Recall-64.02; Precision-57.91
+===>building:	Iou-65.54; F1-79.18; Recall-81.53; Precision-76.97
+===>road:	Iou-53.18; F1-69.43; Recall-59.82; Precision-82.72
+===>water:	Iou-81.93; F1-90.06; Recall-91.13; Precision-89.02
+===>barren:	Iou-38.39; F1-55.48; Recall-46.26; Precision-69.28
+===>forest:	Iou-41.47; F1-58.62; Recall-87.57; Precision-44.06
+===>agricultural:	Iou-46.37; F1-63.36; Recall-50.16; Precision-85.99
+===> mIoU: 52.94; mF1: 68.14; mPA: 68.64; Accuracy: 68.11
+Get miou done.
+
+
+
+t1=0.5,t2=0.65
+Get miou.
+===>background:	Iou-43.7; F1-60.82; Recall-64.01; Precision-57.92
+===>building:	Iou-65.53; F1-79.17; Recall-81.53; Precision-76.95
+===>road:	Iou-53.17; F1-69.43; Recall-59.82; Precision-82.71
+===>water:	Iou-81.92; F1-90.06; Recall-91.13; Precision-89.02
+===>barren:	Iou-38.39; F1-55.48; Recall-46.26; Precision-69.28
+===>forest:	Iou-41.47; F1-58.63; Recall-87.56; Precision-44.07
+===>agricultural:	Iou-46.4; F1-63.39; Recall-50.2; Precision-85.99
+===> mIoU: 52.94; mF1: 68.14; mPA: 68.65; Accuracy: 68.12
+Get miou done.
+
+
+
+t1=0.5,t2=0.7
+Get miou.
+===>background:	Iou-43.69; F1-60.82; Recall-64.0; Precision-57.94
+===>building:	Iou-65.52; F1-79.17; Recall-81.53; Precision-76.95
+===>road:	Iou-53.17; F1-69.43; Recall-59.82; Precision-82.7
+===>water:	Iou-81.92; F1-90.06; Recall-91.13; Precision-89.01
+===>barren:	Iou-38.39; F1-55.48; Recall-46.26; Precision-69.28
+===>forest:	Iou-41.48; F1-58.64; Recall-87.55; Precision-44.08
+===>agricultural:	Iou-46.43; F1-63.41; Recall-50.24; Precision-85.96
+===> mIoU: 52.94; mF1: 68.14; mPA: 68.65; Accuracy: 68.12
+Get miou done.
+
+
+
+t1=0.5,t2=0.75
+Get miou.
+===>background:	Iou-43.7; F1-60.82; Recall-63.99; Precision-57.95
+===>building:	Iou-65.52; F1-79.17; Recall-81.53; Precision-76.94
+===>road:	Iou-53.17; F1-69.42; Recall-59.82; Precision-82.7
+===>water:	Iou-81.92; F1-90.06; Recall-91.13; Precision-89.01
+===>barren:	Iou-38.35; F1-55.44; Recall-46.26; Precision-69.15
+===>forest:	Iou-41.5; F1-58.65; Recall-87.55; Precision-44.1
+===>agricultural:	Iou-46.44; F1-63.43; Recall-50.26; Precision-85.94
+===> mIoU: 52.94; mF1: 68.14; mPA: 68.65; Accuracy: 68.13
+Get miou done.
+
+
+
+t1=0.5,t2=0.8
+Get miou.
+===>background:	Iou-43.7; F1-60.83; Recall-63.99; Precision-57.96
+===>building:	Iou-65.52; F1-79.17; Recall-81.53; Precision-76.94
+===>road:	Iou-53.16; F1-69.42; Recall-59.82; Precision-82.69
+===>water:	Iou-81.91; F1-90.06; Recall-91.13; Precision-89.0
+===>barren:	Iou-38.35; F1-55.44; Recall-46.26; Precision-69.15
+===>forest:	Iou-41.5; F1-58.66; Recall-87.55; Precision-44.1
+===>agricultural:	Iou-46.46; F1-63.45; Recall-50.29; Precision-85.93
+===> mIoU: 52.94; mF1: 68.14; mPA: 68.65; Accuracy: 68.13
+Get miou done.
+
+
+
+t1=0.5,t2=0.85
+Get miou.
+===>background:	Iou-43.69; F1-60.81; Recall-63.97; Precision-57.95
+===>building:	Iou-65.51; F1-79.16; Recall-81.53; Precision-76.93
+===>road:	Iou-53.15; F1-69.41; Recall-59.82; Precision-82.66
+===>water:	Iou-81.89; F1-90.05; Recall-91.14; Precision-88.98
+===>barren:	Iou-38.35; F1-55.44; Recall-46.26; Precision-69.15
+===>forest:	Iou-41.49; F1-58.65; Recall-87.54; Precision-44.09
+===>agricultural:	Iou-46.4; F1-63.39; Recall-50.23; Precision-85.88
+===> mIoU: 52.93; mF1: 68.13; mPA: 68.64; Accuracy: 68.11
+Get miou done.
+
+
+
+t1=0.5,t2=0.9
+Get miou.
+===>background:	Iou-43.67; F1-60.79; Recall-63.96; Precision-57.92
+===>building:	Iou-65.48; F1-79.14; Recall-81.53; Precision-76.89
+===>road:	Iou-53.13; F1-69.39; Recall-59.82; Precision-82.61
+===>water:	Iou-81.89; F1-90.04; Recall-91.14; Precision-88.98
+===>barren:	Iou-38.35; F1-55.44; Recall-46.26; Precision-69.17
+===>forest:	Iou-41.48; F1-58.64; Recall-87.54; Precision-44.09
+===>agricultural:	Iou-46.31; F1-63.31; Recall-50.14; Precision-85.86
+===> mIoU: 52.9; mF1: 68.11; mPA: 68.63; Accuracy: 68.09
+Get miou done.
+
+
+
+t1=0.5,t2=0.95
+Get miou.
+===>background:	Iou-43.66; F1-60.79; Recall-63.97; Precision-57.91
+===>building:	Iou-65.47; F1-79.13; Recall-81.53; Precision-76.87
+===>road:	Iou-53.11; F1-69.37; Recall-59.82; Precision-82.56
+===>water:	Iou-81.88; F1-90.04; Recall-91.14; Precision-88.96
+===>barren:	Iou-38.34; F1-55.43; Recall-46.27; Precision-69.13
+===>forest:	Iou-41.46; F1-58.62; Recall-87.54; Precision-44.06
+===>agricultural:	Iou-46.2; F1-63.2; Recall-50.01; Precision-85.83
+===> mIoU: 52.87; mF1: 68.08; mPA: 68.61; Accuracy: 68.06
+Get miou done.
+
+
+
+t1=0.6,t2=0.55
+Get miou.
+===>background:	Iou-43.67; F1-60.79; Recall-64.12; Precision-57.79
+===>building:	Iou-65.5; F1-79.15; Recall-81.53; Precision-76.91
+===>road:	Iou-53.11; F1-69.37; Recall-59.82; Precision-82.56
+===>water:	Iou-81.88; F1-90.04; Recall-91.18; Precision-88.93
+===>barren:	Iou-38.38; F1-55.47; Recall-46.26; Precision-69.24
+===>forest:	Iou-41.39; F1-58.55; Recall-87.64; Precision-43.95
+===>agricultural:	Iou-45.95; F1-62.96; Recall-49.58; Precision-86.24
+===> mIoU: 52.84; mF1: 68.05; mPA: 68.59; Accuracy: 68.0
+Get miou done.
+
+
+
+t1=0.6,t2=0.6
+Get miou.
+===>background:	Iou-43.67; F1-60.8; Recall-64.11; Precision-57.81
+===>building:	Iou-65.49; F1-79.15; Recall-81.53; Precision-76.91
+===>road:	Iou-53.11; F1-69.37; Recall-59.82; Precision-82.56
+===>water:	Iou-81.88; F1-90.04; Recall-91.18; Precision-88.93
+===>barren:	Iou-38.38; F1-55.47; Recall-46.26; Precision-69.24
+===>forest:	Iou-41.4; F1-58.56; Recall-87.63; Precision-43.97
+===>agricultural:	Iou-45.98; F1-62.99; Recall-49.63; Precision-86.21
+===> mIoU: 52.84; mF1: 68.05; mPA: 68.59; Accuracy: 68.01
+Get miou done.
+
+
+
+t1=0.6,t2=0.65
+Get miou.
+===>background:	Iou-43.69; F1-60.81; Recall-64.11; Precision-57.83
+===>building:	Iou-65.49; F1-79.15; Recall-81.53; Precision-76.91
+===>road:	Iou-53.11; F1-69.37; Recall-59.82; Precision-82.56
+===>water:	Iou-81.88; F1-90.04; Recall-91.18; Precision-88.92
+===>barren:	Iou-38.38; F1-55.47; Recall-46.26; Precision-69.24
+===>forest:	Iou-41.41; F1-58.57; Recall-87.61; Precision-43.99
+===>agricultural:	Iou-46.04; F1-63.05; Recall-49.7; Precision-86.2
+===> mIoU: 52.86; mF1: 68.06; mPA: 68.6; Accuracy: 68.03
+Get miou done.
+
+
+
+t1=0.6,t2=0.7
+Get miou.
+===>background:	Iou-43.69; F1-60.81; Recall-64.09; Precision-57.85
+===>building:	Iou-65.49; F1-79.15; Recall-81.53; Precision-76.91
+===>road:	Iou-53.11; F1-69.37; Recall-59.82; Precision-82.56
+===>water:	Iou-81.88; F1-90.03; Recall-91.18; Precision-88.92
+===>barren:	Iou-38.38; F1-55.47; Recall-46.26; Precision-69.24
+===>forest:	Iou-41.42; F1-58.57; Recall-87.61; Precision-43.99
+===>agricultural:	Iou-46.09; F1-63.1; Recall-49.77; Precision-86.18
+===> mIoU: 52.86; mF1: 68.07; mPA: 68.61; Accuracy: 68.04
+Get miou done.
+
+
+
+t1=0.6,t2=0.75
+Get miou.
+===>background:	Iou-43.68; F1-60.81; Recall-64.06; Precision-57.87
+===>building:	Iou-65.47; F1-79.13; Recall-81.53; Precision-76.87
+===>road:	Iou-53.09; F1-69.36; Recall-59.82; Precision-82.52
+===>water:	Iou-81.87; F1-90.03; Recall-91.18; Precision-88.92
+===>barren:	Iou-38.34; F1-55.43; Recall-46.26; Precision-69.11
+===>forest:	Iou-41.44; F1-58.6; Recall-87.6; Precision-44.02
+===>agricultural:	Iou-46.08; F1-63.09; Recall-49.78; Precision-86.09
+===> mIoU: 52.85; mF1: 68.06; mPA: 68.61; Accuracy: 68.04
+Get miou done.
+
+
+
+t1=0.6,t2=0.8
+Get miou.
+===>background:	Iou-43.69; F1-60.81; Recall-64.06; Precision-57.88
+===>building:	Iou-65.47; F1-79.13; Recall-81.53; Precision-76.87
+===>road:	Iou-53.09; F1-69.36; Recall-59.82; Precision-82.51
+===>water:	Iou-81.87; F1-90.03; Recall-91.18; Precision-88.91
+===>barren:	Iou-38.34; F1-55.43; Recall-46.26; Precision-69.11
+===>forest:	Iou-41.44; F1-58.6; Recall-87.6; Precision-44.02
+===>agricultural:	Iou-46.1; F1-63.11; Recall-49.81; Precision-86.08
+===> mIoU: 52.86; mF1: 68.07; mPA: 68.61; Accuracy: 68.04
+Get miou done.
+
+
+
+t1=0.6,t2=0.85
+Get miou.
+===>background:	Iou-43.68; F1-60.8; Recall-64.04; Precision-57.87
+===>building:	Iou-65.46; F1-79.13; Recall-81.53; Precision-76.86
+===>road:	Iou-53.08; F1-69.35; Recall-59.82; Precision-82.49
+===>water:	Iou-81.86; F1-90.02; Recall-91.18; Precision-88.9
+===>barren:	Iou-38.34; F1-55.43; Recall-46.26; Precision-69.11
+===>forest:	Iou-41.44; F1-58.6; Recall-87.59; Precision-44.02
+===>agricultural:	Iou-46.07; F1-63.08; Recall-49.8; Precision-86.04
+===> mIoU: 52.85; mF1: 68.06; mPA: 68.6; Accuracy: 68.03
+Get miou done.
+
+
+
+t1=0.6,t2=0.9
+Get miou.
+===>background:	Iou-43.68; F1-60.8; Recall-64.04; Precision-57.87
+===>building:	Iou-65.45; F1-79.12; Recall-81.53; Precision-76.85
+===>road:	Iou-53.07; F1-69.34; Recall-59.82; Precision-82.46
+===>water:	Iou-81.86; F1-90.02; Recall-91.18; Precision-88.89
+===>barren:	Iou-38.33; F1-55.42; Recall-46.26; Precision-69.1
+===>forest:	Iou-41.43; F1-58.59; Recall-87.59; Precision-44.02
+===>agricultural:	Iou-46.04; F1-63.05; Recall-49.76; Precision-86.03
+===> mIoU: 52.84; mF1: 68.05; mPA: 68.6; Accuracy: 68.02
+Get miou done.
+
+
+
+t1=0.6,t2=0.95
+Get miou.
+===>background:	Iou-43.67; F1-60.8; Recall-64.04; Precision-57.87
+===>building:	Iou-65.44; F1-79.11; Recall-81.53; Precision-76.83
+===>road:	Iou-53.06; F1-69.33; Recall-59.82; Precision-82.43
+===>water:	Iou-81.85; F1-90.02; Recall-91.18; Precision-88.89
+===>barren:	Iou-38.32; F1-55.41; Recall-46.27; Precision-69.07
+===>forest:	Iou-41.41; F1-58.57; Recall-87.59; Precision-44.0
+===>agricultural:	Iou-45.97; F1-62.98; Recall-49.68; Precision-86.02
+===> mIoU: 52.82; mF1: 68.03; mPA: 68.59; Accuracy: 68.0
+Get miou done.
+
+
+
+t1=0.7,t2=0.55
+Get miou.
+===>background:	Iou-43.63; F1-60.75; Recall-64.15; Precision-57.69
+===>building:	Iou-65.44; F1-79.11; Recall-81.53; Precision-76.83
+===>road:	Iou-53.06; F1-69.33; Recall-59.82; Precision-82.44
+===>water:	Iou-81.87; F1-90.03; Recall-91.19; Precision-88.9
+===>barren:	Iou-38.37; F1-55.46; Recall-46.32; Precision-69.09
+===>forest:	Iou-41.3; F1-58.45; Recall-87.66; Precision-43.85
+===>agricultural:	Iou-45.5; F1-62.54; Recall-49.05; Precision-86.28
+===> mIoU: 52.74; mF1: 67.95; mPA: 68.53; Accuracy: 67.89
+Get miou done.
+
+
+
+t1=0.7,t2=0.6
+Get miou.
+===>background:	Iou-43.63; F1-60.75; Recall-64.13; Precision-57.7
+===>building:	Iou-65.44; F1-79.11; Recall-81.53; Precision-76.83
+===>road:	Iou-53.04; F1-69.32; Recall-59.82; Precision-82.4
+===>water:	Iou-81.87; F1-90.03; Recall-91.19; Precision-88.9
+===>barren:	Iou-38.37; F1-55.46; Recall-46.32; Precision-69.09
+===>forest:	Iou-41.32; F1-58.47; Recall-87.64; Precision-43.87
+===>agricultural:	Iou-45.53; F1-62.57; Recall-49.1; Precision-86.22
+===> mIoU: 52.74; mF1: 67.96; mPA: 68.53; Accuracy: 67.89
+Get miou done.
+
+
+
+t1=0.7,t2=0.65
+Get miou.
+===>background:	Iou-43.64; F1-60.76; Recall-64.11; Precision-57.74
+===>building:	Iou-65.44; F1-79.11; Recall-81.53; Precision-76.82
+===>road:	Iou-53.04; F1-69.32; Recall-59.82; Precision-82.4
+===>water:	Iou-81.87; F1-90.03; Recall-91.19; Precision-88.9
+===>barren:	Iou-38.37; F1-55.46; Recall-46.32; Precision-69.09
+===>forest:	Iou-41.33; F1-58.48; Recall-87.63; Precision-43.89
+===>agricultural:	Iou-45.62; F1-62.65; Recall-49.22; Precision-86.18
+===> mIoU: 52.76; mF1: 67.97; mPA: 68.54; Accuracy: 67.92
+Get miou done.
+
+
+
+t1=0.7,t2=0.7
+Get miou.
+===>background:	Iou-43.65; F1-60.77; Recall-64.1; Precision-57.77
+===>building:	Iou-65.43; F1-79.11; Recall-81.53; Precision-76.82
+===>road:	Iou-53.04; F1-69.32; Recall-59.82; Precision-82.4
+===>water:	Iou-81.86; F1-90.03; Recall-91.19; Precision-88.9
+===>barren:	Iou-38.37; F1-55.46; Recall-46.32; Precision-69.09
+===>forest:	Iou-41.35; F1-58.5; Recall-87.62; Precision-43.91
+===>agricultural:	Iou-45.71; F1-62.74; Recall-49.32; Precision-86.18
+===> mIoU: 52.77; mF1: 67.99; mPA: 68.56; Accuracy: 67.94
+Get miou done.
+
+
+
+t1=0.7,t2=0.75
+Get miou.
+===>background:	Iou-43.65; F1-60.77; Recall-64.08; Precision-57.79
+===>building:	Iou-65.43; F1-79.1; Recall-81.53; Precision-76.82
+===>road:	Iou-53.05; F1-69.32; Recall-59.82; Precision-82.41
+===>water:	Iou-81.86; F1-90.03; Recall-91.19; Precision-88.89
+===>barren:	Iou-38.37; F1-55.46; Recall-46.32; Precision-69.09
+===>forest:	Iou-41.37; F1-58.53; Recall-87.62; Precision-43.94
+===>agricultural:	Iou-45.75; F1-62.78; Recall-49.39; Precision-86.12
+===> mIoU: 52.78; mF1: 68.0; mPA: 68.56; Accuracy: 67.95
+Get miou done.
+
+
+
+t1=0.7,t2=0.8
+Get miou.
+===>background:	Iou-43.66; F1-60.78; Recall-64.08; Precision-57.81
+===>building:	Iou-65.43; F1-79.1; Recall-81.53; Precision-76.82
+===>road:	Iou-53.04; F1-69.32; Recall-59.82; Precision-82.4
+===>water:	Iou-81.86; F1-90.02; Recall-91.19; Precision-88.89
+===>barren:	Iou-38.37; F1-55.46; Recall-46.32; Precision-69.09
+===>forest:	Iou-41.37; F1-58.53; Recall-87.61; Precision-43.94
+===>agricultural:	Iou-45.79; F1-62.81; Recall-49.44; Precision-86.11
+===> mIoU: 52.79; mF1: 68.0; mPA: 68.57; Accuracy: 67.96
+Get miou done.
+
+
+
+t1=0.7,t2=0.85
+Get miou.
+===>background:	Iou-43.65; F1-60.78; Recall-64.06; Precision-57.81
+===>building:	Iou-65.43; F1-79.1; Recall-81.53; Precision-76.81
+===>road:	Iou-53.04; F1-69.32; Recall-59.82; Precision-82.39
+===>water:	Iou-81.85; F1-90.02; Recall-91.19; Precision-88.88
+===>barren:	Iou-38.37; F1-55.46; Recall-46.32; Precision-69.09
+===>forest:	Iou-41.37; F1-58.53; Recall-87.6; Precision-43.94
+===>agricultural:	Iou-45.78; F1-62.81; Recall-49.44; Precision-86.07
+===> mIoU: 52.78; mF1: 68.0; mPA: 68.57; Accuracy: 67.96
+Get miou done.
+
+
+
+t1=0.7,t2=0.9
+Get miou.
+===>background:	Iou-43.66; F1-60.78; Recall-64.06; Precision-57.82
+===>building:	Iou-65.42; F1-79.1; Recall-81.53; Precision-76.81
+===>road:	Iou-53.03; F1-69.31; Recall-59.82; Precision-82.37
+===>water:	Iou-81.85; F1-90.02; Recall-91.19; Precision-88.88
+===>barren:	Iou-38.36; F1-55.45; Recall-46.32; Precision-69.08
+===>forest:	Iou-41.38; F1-58.53; Recall-87.6; Precision-43.95
+===>agricultural:	Iou-45.78; F1-62.81; Recall-49.45; Precision-86.06
+===> mIoU: 52.78; mF1: 68.0; mPA: 68.57; Accuracy: 67.96
+Get miou done.
+
+
+
+t1=0.7,t2=0.95
+Get miou.
+===>background:	Iou-43.66; F1-60.78; Recall-64.06; Precision-57.82
+===>building:	Iou-65.42; F1-79.1; Recall-81.53; Precision-76.8
+===>road:	Iou-53.03; F1-69.3; Recall-59.82; Precision-82.35
+===>water:	Iou-81.85; F1-90.02; Recall-91.19; Precision-88.88
+===>barren:	Iou-38.36; F1-55.44; Recall-46.32; Precision-69.05
+===>forest:	Iou-41.37; F1-58.52; Recall-87.6; Precision-43.94
+===>agricultural:	Iou-45.75; F1-62.78; Recall-49.42; Precision-86.05
+===> mIoU: 52.78; mF1: 67.99; mPA: 68.56; Accuracy: 67.95
+Get miou done.
+
+
+
+t1=0.8,t2=0.55
+Get miou.
+===>background:	Iou-43.6; F1-60.72; Recall-64.15; Precision-57.64
+===>building:	Iou-65.42; F1-79.1; Recall-81.53; Precision-76.8
+===>road:	Iou-53.04; F1-69.32; Recall-59.82; Precision-82.4
+===>water:	Iou-81.85; F1-90.02; Recall-91.19; Precision-88.88
+===>barren:	Iou-38.36; F1-55.45; Recall-46.32; Precision-69.08
+===>forest:	Iou-41.23; F1-58.39; Recall-87.66; Precision-43.77
+===>agricultural:	Iou-45.24; F1-62.3; Recall-48.76; Precision-86.25
+===> mIoU: 52.68; mF1: 67.9; mPA: 68.49; Accuracy: 67.82
+Get miou done.
+
+
+
+t1=0.8,t2=0.6
+Get miou.
+===>background:	Iou-43.62; F1-60.75; Recall-64.15; Precision-57.69
+===>building:	Iou-65.42; F1-79.1; Recall-81.53; Precision-76.8
+===>road:	Iou-53.03; F1-69.31; Recall-59.82; Precision-82.36
+===>water:	Iou-81.85; F1-90.02; Recall-91.19; Precision-88.88
+===>barren:	Iou-38.36; F1-55.45; Recall-46.32; Precision-69.08
+===>forest:	Iou-41.26; F1-58.42; Recall-87.65; Precision-43.81
+===>agricultural:	Iou-45.36; F1-62.41; Recall-48.9; Precision-86.22
+===> mIoU: 52.7; mF1: 67.92; mPA: 68.51; Accuracy: 67.85
+Get miou done.
+
+
+
+t1=0.8,t2=0.65
+Get miou.
+===>background:	Iou-43.64; F1-60.76; Recall-64.12; Precision-57.74
+===>building:	Iou-65.42; F1-79.1; Recall-81.53; Precision-76.8
+===>road:	Iou-53.03; F1-69.3; Recall-59.82; Precision-82.36
+===>water:	Iou-81.85; F1-90.02; Recall-91.19; Precision-88.88
+===>barren:	Iou-38.36; F1-55.45; Recall-46.32; Precision-69.08
+===>forest:	Iou-41.29; F1-58.45; Recall-87.64; Precision-43.84
+===>agricultural:	Iou-45.49; F1-62.53; Recall-49.07; Precision-86.18
+===> mIoU: 52.73; mF1: 67.94; mPA: 68.53; Accuracy: 67.88
+Get miou done.
+
+
+
+t1=0.8,t2=0.7
+Get miou.
+===>background:	Iou-43.64; F1-60.77; Recall-64.1; Precision-57.76
+===>building:	Iou-65.42; F1-79.1; Recall-81.53; Precision-76.8
+===>road:	Iou-53.03; F1-69.3; Recall-59.82; Precision-82.36
+===>water:	Iou-81.85; F1-90.02; Recall-91.19; Precision-88.88
+===>barren:	Iou-38.36; F1-55.45; Recall-46.32; Precision-69.08
+===>forest:	Iou-41.3; F1-58.46; Recall-87.63; Precision-43.86
+===>agricultural:	Iou-45.56; F1-62.6; Recall-49.17; Precision-86.14
+===> mIoU: 52.74; mF1: 67.96; mPA: 68.54; Accuracy: 67.9
+Get miou done.
+
+
+
+t1=0.8,t2=0.75
+Get miou.
+===>background:	Iou-43.65; F1-60.77; Recall-64.09; Precision-57.78
+===>building:	Iou-65.42; F1-79.1; Recall-81.53; Precision-76.8
+===>road:	Iou-53.03; F1-69.3; Recall-59.82; Precision-82.36
+===>water:	Iou-81.85; F1-90.02; Recall-91.19; Precision-88.88
+===>barren:	Iou-38.36; F1-55.45; Recall-46.32; Precision-69.08
+===>forest:	Iou-41.33; F1-58.48; Recall-87.62; Precision-43.89
+===>agricultural:	Iou-45.62; F1-62.65; Recall-49.24; Precision-86.11
+===> mIoU: 52.75; mF1: 67.97; mPA: 68.54; Accuracy: 67.92
+Get miou done.
+
+
+
+t1=0.8,t2=0.8
+Get miou.
+===>background:	Iou-43.65; F1-60.77; Recall-64.08; Precision-57.79
+===>building:	Iou-65.42; F1-79.1; Recall-81.53; Precision-76.8
+===>road:	Iou-53.02; F1-69.3; Recall-59.82; Precision-82.34
+===>water:	Iou-81.84; F1-90.02; Recall-91.19; Precision-88.87
+===>barren:	Iou-38.36; F1-55.45; Recall-46.32; Precision-69.08
+===>forest:	Iou-41.34; F1-58.5; Recall-87.62; Precision-43.9
+===>agricultural:	Iou-45.67; F1-62.7; Recall-49.31; Precision-86.1
+===> mIoU: 52.76; mF1: 67.98; mPA: 68.55; Accuracy: 67.93
+Get miou done.
+
+
+
+t1=0.8,t2=0.85
+Get miou.
+===>background:	Iou-43.65; F1-60.77; Recall-64.07; Precision-57.8
+===>building:	Iou-65.42; F1-79.1; Recall-81.53; Precision-76.8
+===>road:	Iou-53.02; F1-69.29; Recall-59.82; Precision-82.33
+===>water:	Iou-81.84; F1-90.02; Recall-91.19; Precision-88.87
+===>barren:	Iou-38.36; F1-55.45; Recall-46.32; Precision-69.08
+===>forest:	Iou-41.34; F1-58.5; Recall-87.61; Precision-43.91
+===>agricultural:	Iou-45.68; F1-62.71; Recall-49.32; Precision-86.08
+===> mIoU: 52.76; mF1: 67.98; mPA: 68.55; Accuracy: 67.93
+Get miou done.
+
+
+
+t1=0.8,t2=0.9
+Get miou.
+===>background:	Iou-43.65; F1-60.77; Recall-64.07; Precision-57.8
+===>building:	Iou-65.42; F1-79.09; Recall-81.53; Precision-76.8
+===>road:	Iou-53.01; F1-69.29; Recall-59.82; Precision-82.33
+===>water:	Iou-81.85; F1-90.02; Recall-91.19; Precision-88.88
+===>barren:	Iou-38.36; F1-55.45; Recall-46.32; Precision-69.06
+===>forest:	Iou-41.35; F1-58.51; Recall-87.61; Precision-43.92
+===>agricultural:	Iou-45.68; F1-62.71; Recall-49.33; Precision-86.06
+===> mIoU: 52.76; mF1: 67.98; mPA: 68.55; Accuracy: 67.93
+Get miou done.
+
+
+
+t1=0.8,t2=0.95
+Get miou.
+===>background:	Iou-43.65; F1-60.77; Recall-64.07; Precision-57.8
+===>building:	Iou-65.42; F1-79.09; Recall-81.53; Precision-76.8
+===>road:	Iou-53.01; F1-69.29; Recall-59.82; Precision-82.33
+===>water:	Iou-81.85; F1-90.02; Recall-91.19; Precision-88.88
+===>barren:	Iou-38.35; F1-55.44; Recall-46.32; Precision-69.03
+===>forest:	Iou-41.35; F1-58.5; Recall-87.6; Precision-43.92
+===>agricultural:	Iou-45.67; F1-62.7; Recall-49.32; Precision-86.05
+===> mIoU: 52.76; mF1: 67.97; mPA: 68.55; Accuracy: 67.93
+Get miou done.
+
+
+
+t1=0.9,t2=0.55
+Get miou.
+===>background:	Iou-43.61; F1-60.73; Recall-64.14; Precision-57.67
+===>building:	Iou-65.41; F1-79.09; Recall-81.53; Precision-76.79
+===>road:	Iou-53.01; F1-69.29; Recall-59.83; Precision-82.31
+===>water:	Iou-81.84; F1-90.02; Recall-91.19; Precision-88.87
+===>barren:	Iou-38.34; F1-55.42; Recall-46.32; Precision-68.98
+===>forest:	Iou-41.24; F1-58.4; Recall-87.64; Precision-43.79
+===>agricultural:	Iou-45.28; F1-62.33; Recall-48.81; Precision-86.21
+===> mIoU: 52.67; mF1: 67.9; mPA: 68.49; Accuracy: 67.82
+Get miou done.
+
+
+
+t1=0.9,t2=0.6
+Get miou.
+===>background:	Iou-43.63; F1-60.76; Recall-64.13; Precision-57.71
+===>building:	Iou-65.41; F1-79.09; Recall-81.53; Precision-76.79
+===>road:	Iou-53.01; F1-69.29; Recall-59.83; Precision-82.3
+===>water:	Iou-81.84; F1-90.02; Recall-91.19; Precision-88.87
+===>barren:	Iou-38.34; F1-55.42; Recall-46.32; Precision-68.98
+===>forest:	Iou-41.28; F1-58.43; Recall-87.63; Precision-43.83
+===>agricultural:	Iou-45.4; F1-62.45; Recall-48.96; Precision-86.2
+===> mIoU: 52.7; mF1: 67.92; mPA: 68.51; Accuracy: 67.86
+Get miou done.
+
+
+
+t1=0.9,t2=0.65
+Get miou.
+===>background:	Iou-43.64; F1-60.77; Recall-64.12; Precision-57.74
+===>building:	Iou-65.41; F1-79.09; Recall-81.53; Precision-76.79
+===>road:	Iou-53.01; F1-69.29; Recall-59.83; Precision-82.3
+===>water:	Iou-81.84; F1-90.02; Recall-91.19; Precision-88.87
+===>barren:	Iou-38.34; F1-55.42; Recall-46.32; Precision-68.98
+===>forest:	Iou-41.29; F1-58.45; Recall-87.63; Precision-43.85
+===>agricultural:	Iou-45.47; F1-62.51; Recall-49.05; Precision-86.17
+===> mIoU: 52.71; mF1: 67.93; mPA: 68.52; Accuracy: 67.88
+Get miou done.
+
+
+
+t1=0.9,t2=0.7
+Get miou.
+===>background:	Iou-43.64; F1-60.76; Recall-64.11; Precision-57.75
+===>building:	Iou-65.41; F1-79.09; Recall-81.53; Precision-76.79
+===>road:	Iou-53.01; F1-69.29; Recall-59.83; Precision-82.3
+===>water:	Iou-81.84; F1-90.02; Recall-91.19; Precision-88.87
+===>barren:	Iou-38.34; F1-55.42; Recall-46.32; Precision-68.98
+===>forest:	Iou-41.31; F1-58.46; Recall-87.62; Precision-43.87
+===>agricultural:	Iou-45.52; F1-62.56; Recall-49.12; Precision-86.15
+===> mIoU: 52.72; mF1: 67.94; mPA: 68.53; Accuracy: 67.89
+Get miou done.
+
+
+
+t1=0.9,t2=0.75
+Get miou.
+===>background:	Iou-43.65; F1-60.77; Recall-64.1; Precision-57.77
+===>building:	Iou-65.41; F1-79.09; Recall-81.53; Precision-76.79
+===>road:	Iou-53.01; F1-69.29; Recall-59.83; Precision-82.3
+===>water:	Iou-81.84; F1-90.01; Recall-91.19; Precision-88.87
+===>barren:	Iou-38.34; F1-55.42; Recall-46.32; Precision-68.98
+===>forest:	Iou-41.32; F1-58.48; Recall-87.62; Precision-43.89
+===>agricultural:	Iou-45.56; F1-62.6; Recall-49.18; Precision-86.11
+===> mIoU: 52.73; mF1: 67.95; mPA: 68.54; Accuracy: 67.9
+Get miou done.
+
+
+
+t1=0.9,t2=0.8
+Get miou.
+===>background:	Iou-43.65; F1-60.77; Recall-64.08; Precision-57.79
+===>building:	Iou-65.41; F1-79.09; Recall-81.53; Precision-76.79
+===>road:	Iou-53.01; F1-69.29; Recall-59.83; Precision-82.3
+===>water:	Iou-81.84; F1-90.01; Recall-91.19; Precision-88.87
+===>barren:	Iou-38.35; F1-55.44; Recall-46.32; Precision-69.03
+===>forest:	Iou-41.32; F1-58.48; Recall-87.61; Precision-43.89
+===>agricultural:	Iou-45.61; F1-62.64; Recall-49.24; Precision-86.09
+===> mIoU: 52.74; mF1: 67.96; mPA: 68.54; Accuracy: 67.91
+Get miou done.
+
+
+
+t1=0.9,t2=0.85
+Get miou.
+===>background:	Iou-43.65; F1-60.77; Recall-64.08; Precision-57.79
+===>building:	Iou-65.41; F1-79.09; Recall-81.53; Precision-76.79
+===>road:	Iou-53.01; F1-69.29; Recall-59.83; Precision-82.3
+===>water:	Iou-81.84; F1-90.01; Recall-91.19; Precision-88.87
+===>barren:	Iou-38.35; F1-55.44; Recall-46.32; Precision-69.03
+===>forest:	Iou-41.32; F1-58.48; Recall-87.61; Precision-43.89
+===>agricultural:	Iou-45.61; F1-62.65; Recall-49.25; Precision-86.08
+===> mIoU: 52.74; mF1: 67.96; mPA: 68.54; Accuracy: 67.91
+Get miou done.
+
+
+
+t1=0.9,t2=0.9
+Get miou.
+===>background:	Iou-43.65; F1-60.77; Recall-64.07; Precision-57.79
+===>building:	Iou-65.41; F1-79.09; Recall-81.53; Precision-76.79
+===>road:	Iou-53.01; F1-69.29; Recall-59.83; Precision-82.3
+===>water:	Iou-81.84; F1-90.01; Recall-91.19; Precision-88.87
+===>barren:	Iou-38.35; F1-55.44; Recall-46.32; Precision-69.03
+===>forest:	Iou-41.33; F1-58.49; Recall-87.61; Precision-43.9
+===>agricultural:	Iou-45.61; F1-62.65; Recall-49.25; Precision-86.06
+===> mIoU: 52.74; mF1: 67.96; mPA: 68.54; Accuracy: 67.91
+Get miou done.
+
+
+
+t1=0.9,t2=0.95
+Get miou.
+===>background:	Iou-43.65; F1-60.77; Recall-64.07; Precision-57.79
+===>building:	Iou-65.41; F1-79.09; Recall-81.53; Precision-76.79
+===>road:	Iou-53.01; F1-69.29; Recall-59.83; Precision-82.3
+===>water:	Iou-81.84; F1-90.01; Recall-91.19; Precision-88.87
+===>barren:	Iou-38.35; F1-55.44; Recall-46.32; Precision-69.03
+===>forest:	Iou-41.33; F1-58.49; Recall-87.6; Precision-43.9
+===>agricultural:	Iou-45.61; F1-62.65; Recall-49.25; Precision-86.05
+===> mIoU: 52.74; mF1: 67.96; mPA: 68.54; Accuracy: 67.91
+Get miou done.
+
+
+
