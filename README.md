@@ -157,7 +157,7 @@ If all $t_1^c$ and $t_2^c$ values are varied simultaneously, for example, with `
 | ShelfNet     | 30s            |
 | UNetformer   | 1m             |
 
-The table above shows the approximate time required for traversing all $t_1^c$ and $t_2^c$ values simultaneously on an Intel(R) Xeon(R) Gold 6230 CPU using 64 threads. The time varies depending on the number of objects in the semantic segmentation model's predictions and the values of $t_1^c$ and $t_2^c$. When all other $t_1^c$ and $t_2^c$ values are fixed at 1, varying one class takes about 10 seconds. (These timings are for reference only.)
+The table above shows the approximate time required for traversing all $t_1^c$ and $t_2^c$ values simultaneously on an Intel(R) Xeon(R) Gold 6230 CPU using 64 threads. The time varies depending on the number of objects in the semantic segmentation model's predictions and the values of $t_1^c$ and $t_2^c$. When all other $t_1^c$ and $t_2^c$ values are fixed at 1, varying one class takes about 10 seconds. **(These timings are for reference only.)**
 
 ---
 
